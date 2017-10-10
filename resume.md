@@ -16,6 +16,8 @@ Worked on designing a complete update to the 737 airstair for the 737 MAX, and c
 - Integrated 737 airstair design into the aircraft structure, and built a complete assembly and kinematic model to ensure proper fit and operation.
 - Acted as primary designer and coordinated with coworkers across many locations in different countries to drive the project to completion. Created company standards for mechanical, fluid, and HVAC system design, and standard fasteners and fittings, reducing labor costs and resource utilization for future designs.
 
+&nbsp;
+
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA **2006 – 2012, 2014**
 
 ### Structural Design Engineer
@@ -30,6 +32,8 @@ Responsible for part concepts and designs, collaboration with stress analysts, m
 - Corrected production problems looking through 35 years of drawings and seeing completed parts on the airplane in the factory.
 - Performed preliminary analysis on parts to confirm optimum design for reduced weight.
 
+&nbsp;
+
 ## KVICHAK MARINE INDUSTRIES, Seattle, WA **2012 – 2014**
 
 ### Project Engineer
@@ -40,12 +44,16 @@ Developed structure and mechanical system designs for aluminum hulled boats. Wor
 - Designed the structure and fluid systems on a 75’ pilot boat.
 - Created a design for a new engine mount on an Army prototype boat on a rapid schedule.
 
+&nbsp;
+
 # OTHER ACTIVITIES & SKILLS
 
 - Experienced in SolidWorks (Certified SolidWorks Professional), CATIA V5 (7 years daily use), and AutoCAD (2 years).
 - Design of sheet metal, extruded, machined plate, and composite parts, small and large assemblies. 3D and 2D assembly and detail part definition. Understanding of reasonable tolerances, and how to apply GD&T.
 - Used machine tools and hand tools to build my own designs out of wood and metal. Built parts for a Formula SAE drivetrain, and my own kitchen cabinets.
 - Proficient in Mandarin Chinese and Spanish.
+
+&nbsp;
 
 # EDUCATION & STUDENT PROJECTS
 
@@ -66,3 +74,5 @@ Fuel cell capstone project:
 
 - Researched the latest fuel cell technology and researched ways to reduce cost without excessive performance loss
 - Designed and tested molded composite materials in flow field plates, instead of conventional machining.
+
+&nbsp;
