@@ -6,9 +6,13 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 - Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
 - Accustomed to working in teams of different disciplines, including manufacturing engineers, stress analysts and electrical systems designers, whose input is required to complete the job.
 
+&nbsp;
+
 # EXPERIENCE
 
 ## ZODIAC WASTE AND WATER AERO SYSTEMS, Everett, WA **2015-Present**
+
+### Design and Integration Engineer
 
 Worked on designing a complete update to the 737 airstair for the 737 MAX, and created aircraft fluid system installation and detail drawings.
 
