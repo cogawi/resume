@@ -58,9 +58,11 @@ Systems, Instrumentation, Fluids, CAD, Finite Element Analysis,
 Technical Writing.
 
 Formula SAE project:
+
 - Led drive train team, oversaw production of parts, and completed documents required for competition. Helped the team place 5th out of 122 teams in the competition.
 - Used SolidWorks to model parts, apply finite element analysis, and create drawings.
 
-    Fuel cell capstone project:
+Fuel cell capstone project:
+
 - Researched the latest fuel cell technology and researched ways to reduce cost without excessive performance loss
 - Designed and tested molded composite materials in flow field plates, instead of conventional machining.
