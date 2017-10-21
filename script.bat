@@ -1,0 +1,1 @@
+pandoc -f markdown -t docx -o resume.docx resume.md
