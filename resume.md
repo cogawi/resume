@@ -2,7 +2,7 @@
 
 Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process.
 
-- 10 years of mechanical and structural design experience, working on big picture large assemblies, as well as minute details, and defining designs with 2D drawings and 3D models.
+- 11 years of mechanical and structural design experience, working on big picture large assemblies, as well as minute details, and defining designs with 2D drawings and 3D models.
 - Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
 - Accustomed to working in teams of different disciplines, including manufacturing engineers, stress analysts and electrical systems designers, whose input is required to complete the job.
 
@@ -14,11 +14,11 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 
 ### Design and Integration Engineer
 
-Worked on designing a complete update to the 737 airstair for the 737 MAX, and created aircraft fluid system installation and detail drawings.
+Worked on designing a complete update to the 737 airstair for the newest 737, and aircraft fluid system parts and assemblies.
 
-- Developed design solutions to allow updating the 737 airstair to include new safety features and an extra step within the same envelope. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development.
+- Developed design solutions to allow updating the 737 airstair to include new safety features and an extra step within the same envelope. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development and testing.
 - Integrated 737 airstair design into the aircraft structure, and built a complete assembly and kinematic model to ensure proper fit and operation.
-- Acted as primary designer and coordinated with coworkers across many locations in different countries to drive the project to completion. Created company standards for mechanical, fluid, and HVAC system design, and standard fasteners and fittings, reducing labor costs and resource utilization for future designs.
+- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, electrical components, all designed to fit into a small space in an aircraft galley.
 
 &nbsp;
 
