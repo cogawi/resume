@@ -2,7 +2,7 @@
 
 Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process.
 
-- 11 years of mechanical and structural design experience, working on big picture large assemblies, as well as minute details, and defining designs with 2D drawings and 3D models.
+- 11 years of mechanical, structural, and fluid system design experience, working on large and complicated assemblies as well as the tiniest details, and defining designs with 2D drawings and 3D models.
 - Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
 - Accustomed to working in teams of different disciplines, including manufacturing engineers, stress analysts and electrical systems designers, whose input is required to complete the job.
 
@@ -14,11 +14,11 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 
 ### Design and Integration Engineer
 
-Worked on designing a complete update to the 737 airstair for the newest 737, and aircraft fluid system parts and assemblies.
+Responsible for structural, mechanical, and fluid system designs; working on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple site in different countries, and coordinated extensively with customer representatives throughout design, testing, and production.
 
 - Developed design solutions to allow updating the 737 airstair to include new safety features and an extra step within the same envelope. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development and testing.
 - Integrated 737 airstair design into the aircraft structure, and built a complete assembly and kinematic model to ensure proper fit and operation.
-- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, electrical components, all designed to fit into a small space in an aircraft galley.
+- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components, all designed to fit into a small space in an aircraft galley.
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Worked on designing a complete update to the 737 airstair for the newest 737, an
 
 ### Structural Design Engineer
 
-Responsible for part concepts and designs, collaboration with stress analysts, manufacturing engineering, suppliers, and other design groups. Worked on initial design through production on the 747-8 and 767 tanker, on the wing, tail, and body.
+Took ownership of part concepts and designs, collaboration with stress analysts, manufacturing engineering, suppliers, and other design groups. Worked on initial design through production on the 747-8 and 767 tanker, on the wing, tail, and body.
 
 - Designed aluminum and composite parts, and assemblies large and small. Optimized parts for weight and cost without compromising on strength.
 - Used a 3D printer to produce a test tool for the 747 wing panels, to ensure that the wing would be assembled without problems.
