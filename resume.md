@@ -17,7 +17,7 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 Responsible for structural, mechanical, and fluid system designs; working on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple site in different countries, and coordinated extensively with customer representatives throughout design, testing, and production.
 
 - Developed design solutions to allow updating the 737 airstair to include new safety features and an extra step within the same envelope. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development and testing.
-- Integrated 737 airstair design into the aircraft structure, and built a complete assembly and kinematic model to ensure proper fit and operation.
+- Integrated 737 airstair design into the aircraft structure, and built a complete CATIA assembly and kinematic model to ensure proper fit and operation.
 - Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components, all designed to fit into a small space in an aircraft galley.
 
 &nbsp;
