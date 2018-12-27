@@ -2,7 +2,7 @@
 
 Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process.
 
-- 11 years of mechanical, structural, and fluid system design experience, working on large and complicated assemblies as well as the tiniest details, and defining designs with 2D drawings and 3D models.
+- 12 years of mechanical, structural, and fluid system design experience, working on large and complicated assemblies as well as the tiniest details, and defining designs with 2D drawings and 3D models.
 - Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
 - Accustomed to working in teams of different disciplines, including manufacturing engineers, stress analysts and electrical systems designers, whose input is required to complete the job.
 
@@ -10,7 +10,7 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 
 # EXPERIENCE
 
-## ZODIAC WASTE AND WATER AERO SYSTEMS, Everett, WA **2015-Present**
+## SAFRAN AEROSYSTEMS, Everett, WA **2015-Present**
 
 ### Design and Integration Engineer
 
@@ -46,13 +46,12 @@ Developed structure and mechanical system designs for aluminum hulled boats. Wor
 
 - Completed concept, design, and finite element analysis to meet customer requirements. Worked in SolidWorks to model detail parts and assemblies.
 - Designed the structure and fluid systems on a 75’ pilot boat.
-- Created a design for a new engine mount on an Army prototype boat on a rapid schedule.
 
 &nbsp;
 
 # OTHER ACTIVITIES & SKILLS
 
-- Experienced in SolidWorks (Certified SolidWorks Professional), CATIA V5 (7 years daily use), and AutoCAD (2 years).
+- Experienced in SolidWorks (Certified SolidWorks Professional), CATIA V5, and AutoCAD.
 - Design of sheet metal, extruded, machined plate, and composite parts, small and large assemblies. 3D and 2D assembly and detail part definition. Understanding of reasonable tolerances, and how to apply GD&T.
 - Used machine tools and hand tools to build my own designs out of wood and metal. Built parts for a Formula SAE drivetrain, and my own kitchen cabinets.
 - Proficient in Mandarin Chinese and Spanish.
