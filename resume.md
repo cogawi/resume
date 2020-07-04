@@ -10,7 +10,17 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 
 # EXPERIENCE
 
-## SAFRAN AEROSYSTEMS, Everett, WA **2015-Present**
+## KATERRA, Seattle, WA **2019-2020**
+
+### Manufacturered Assemblies Design Engineer
+
+Designed building subcomponents to be built in a prefabrication factory and installed in the construction site. Integrated structural, electrical, plumbing and finish components for easy installation.
+
+- Designed a bathroom kit system which optimizes use of factory and construction site labor, and minimizes logistics costs and construction site crane usage. Kit system contains all bathroom finish items ready to install as soon as building is weathered in. Modeled kit in SolidWorks providing complete BOM and drawing set, and allowing export of model into downstream software systems.
+- Developed CAD models for cold formed steel wall panels using Catia 3DExperience. Automated generation of component models as required for individual walls, created drawing and model templates to simplify creation of manufacturing instructions, and completed prototype builds using this system. Used Catia scripting system (EKL) to automate generation of CNC code to allow integration of the software into factory workflow.
+- Built prototypes of proposed manufactured assemblies to test part and assembly sizing. Prototypes were developed with standard construction industry tools and methods which have very poor tolerances, so designs were used to take this into account and allow proper adjustment and inspection to ensure proper fit every time.
+
+## SAFRAN AEROSYSTEMS, Everett, WA **2015-2019**
 
 ### Design and Integration Engineer
 
