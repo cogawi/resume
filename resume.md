@@ -2,7 +2,7 @@
 
 Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process.
 
-- 12 years of mechanical, structural, and fluid system design experience, working on large and complicated assemblies as well as the tiniest details, and defining designs with 2D drawings and 3D models.
+- 14 years of mechanical, structural, and fluid system design experience, working on large and complicated assemblies as well as the tiniest details, and defining designs with 2D drawings and 3D models.
 - Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
 - Accustomed to working in teams of different disciplines, including manufacturing engineers, stress analysts and electrical systems designers, whose input is required to complete the job.
 
