@@ -20,6 +20,8 @@ Designed building subcomponents to be built in a prefabrication factory and inst
 - Developed CAD models for cold formed steel wall panels using Catia 3DExperience. Automated generation of component models as required for individual walls, created drawing and model templates to simplify creation of manufacturing instructions, and completed prototype builds using this system. Used Catia scripting system (EKL) to automate generation of CNC code to allow integration of the software into factory workflow.
 - Built prototypes of proposed manufactured assemblies to test part and assembly sizing. Prototypes were developed with standard construction industry tools and methods which have very poor tolerances, so designs were used to take this into account and allow proper adjustment and inspection to ensure proper fit every time.
 
+&nbsp;
+
 ## SAFRAN AEROSYSTEMS, Everett, WA **2015-2019**
 
 ### Design and Integration Engineer
