@@ -12,7 +12,7 @@ Mechanical engineer with the heart of an inventor, a problem solver with the abi
 
 ## KATERRA, Seattle, WA **2019-2020**
 
-### Manufacturered Assemblies Design Engineer
+### Manufactured Assemblies Design Engineer
 
 Designed building subcomponents to be built in a prefabrication factory and installed in the construction site. Integrated structural, electrical, plumbing and finish components for easy installation.
 
