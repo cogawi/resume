@@ -8,10 +8,11 @@ Include anything in experience that relates to the current direction as the top 
 - Need a career change***: Passionate to apply my extensive design experience to new problems.
 - Enthusiastic about green technology and renewable energy.***
 - Knowledgeable in various FEA techniques.***
-- Composite design - biocomposites project ***
-- Experienced in R&D through university lab research.***
+- Composite design - biocomposites project *** (match format with adjective at front)
+- Experienced in R&D through university lab research.*** 
 - 14 years of mechanical, structural, and fluid system design experience, and defining designs with 2D drawings and 3D models.
 - Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
+- Proficient in Mandarin Chinese and Spanish.
 
 &nbsp;
 
@@ -25,11 +26,9 @@ Courses: Mechanical Engineering Analysis, Composite Design, Nanocomposites and B
 
 Planned Course of Study: Composite design and analysis, Design for additive manufacturing, Renewable energy and green technology.
 
-Research: Researching structural and thermal properties of nano-scale 3D printed spinodoid structures, under Professor Lucas Meza.
-
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
-Courses: Materials and Structures, Mechanical Systems Analysis, Control Systems, CAD, Finite Element Analysis.
+Courses: Materials and Structures, Mechanical Systems Analysis, Control Systems, CAD, Finite Element Analysis, Renewable Energy.
 
 Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
@@ -45,9 +44,13 @@ Don't use complete sentences
 
 ## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-  Present**
 
-### Student Researcher in the Meza Research Group
+### Graduate Student Researcher in the Meza Research Group
+
+- Researching structural and thermal properties of nano-scale 3D printed spinodoid structures, under Professor Lucas Meza.
 
 ### Composites Research Project
+
+- Researching the material properties, manufacturing, and applications for mycelium-based biocomposites.
 
 ## KATERRA, Seattle, WA **2019-2020**
 
@@ -64,12 +67,12 @@ Don't use complete sentences
 
 ### Design and Integration Engineer
 
-Responsible for structural, mechanical, and fluid system designs; working on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple site in different countries, and coordinated extensively with customer representatives throughout design, testing, and production.
+Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries, and coordinated extensively with customer representatives throughout design, testing, and production.
 
 - Conducted root cause analysis of failed valves. Disassembled valve to investigate the cause, and retested to confirm the problem.
-- Redesigned the 737 airstair to include new safety features and increase height. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development and testing.
+- Redesigned the 737 airstair to include new safety features and to increase height. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development and testing.
 - Integrated 737 airstair design into the aircraft structure, and built a complete CATIA assembly and kinematic model to ensure proper fit and operation.
-- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components, all designed to fit into a small space in an aircraft galley.
+- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components, all designed to fit into a small space.
 
 &nbsp;
 
@@ -83,7 +86,7 @@ Took ownership of part concepts and designs, collaboration with stress analysts,
 - Coordinated with Boeing and supplier production facilities from concept to production, to ensure parts are easy to manufacture and assemble, making visits as parts were being produced to ensure quality production.
 - Integrated electrical wiring, mechanical systems and fluid systems into the structural design, working closely with members of other teams to provide the best design.
 - Redesigned a critical structural member in the 747 wing, replacing an assembly with hundreds of parts with a single part, in order to reduce weight and assembly time.
-- Corrected production problems looking through 35 years of drawings and seeing completed parts on the airplane in the factory.
+- Corrected factory production problems through examining drawings and completed parts.
 
 &nbsp;
 
@@ -91,10 +94,8 @@ Took ownership of part concepts and designs, collaboration with stress analysts,
 
 ### Project Engineer
 
-Developed structure and mechanical system designs for aluminum hulled boats. Worked from concept through production providing design and analysis.
-
-- Completed concept, design, and finite element analysis to meet customer requirements.
-- Modeled structure and fluid systems parts and assemblies in SolidWorks and produced drawings for manufacturing.
+- Developed structure and mechanical system designs for aluminum hulled boats.
+- Worked from concept through production providing designs and production drawings in Solidworks.
 
 &nbsp;
 <!-- consider moving these to the top-->
@@ -102,7 +103,5 @@ Developed structure and mechanical system designs for aluminum hulled boats. Wor
 
 - Experienced in SolidWorks (Certified SolidWorks Professional), CATIA V5, and AutoCAD.
 - Design of sheet metal, extruded, machined plate, and composite parts, small and large assemblies. 3D and 2D assembly and detail part definition. Understanding of reasonable tolerances, and how to apply GD&T.
-- Used machine tools and hand tools to build my own designs out of wood and metal. Built parts for a Formula SAE drivetrain, and my own kitchen cabinets.
-- Proficient in Mandarin Chinese and Spanish.
 
 &nbsp;
