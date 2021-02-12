@@ -5,14 +5,13 @@ Include anything in experience that relates to the current direction as the top 
 # SUMMARY OF QUALIFICATIONS
 
 <!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. -->
-- Need a career change***: Passionate to apply my extensive design experience to new problems.
-- Enthusiastic about green technology and renewable energy.***
-- Knowledgeable in various FEA techniques.***
-- Composite design - biocomposites project *** (match format with adjective at front)
-- Experienced in R&D through university lab research.*** 
-- 14 years of mechanical, structural, and fluid system design experience, and defining designs with 2D drawings and 3D models.
-- Experienced in working with internal and external suppliers, designing for production lines as well as custom products.
-- Proficient in Mandarin Chinese and Spanish.
+- A passionate learner ready to apply extensive experience to new fields and technologies.
+<!-- Enthusiastic about green technology and renewable energy.***-->
+- Knowledgeable in static, dynamic explicit, and thermal FEA.
+- Experienced in composite design and analysis, including green biocomposites. <!--(match format with adjective at front)-->
+<!-- Experienced in R&D through university lab research.-->
+- Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
+- Proficient in Mandarin Chinese and Spanish, ready to directly engage with overseas partners.
 
 &nbsp;
 
@@ -22,13 +21,13 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
-Courses: Mechanical Engineering Analysis, Composite Design, Nanocomposites and Biocomposites
+Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy
 
-Planned Course of Study: Composite design and analysis, Design for additive manufacturing, Renewable energy and green technology.
+Planned Course of Study: Composites, Design for additive manufacturing, Renewable energy and green technology.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
-Courses: Materials and Structures, Mechanical Systems Analysis, Control Systems, CAD, Finite Element Analysis, Renewable Energy.
+Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, Finite Element Analysis, Renewable Energy, Design for Environment.
 
 Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
@@ -40,24 +39,27 @@ Spend less time describing details of project, and more about what I know how to
 Don't use complete sentences
 -->
 
-# RELEVANT EXPERIENCE
+# EXPERIENCE
 
 ## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-  Present**
 
 ### Graduate Student Researcher in the Meza Research Group
 
 - Researching structural and thermal properties of nano-scale 3D printed spinodoid structures, under Professor Lucas Meza.
+- Performing FEA analysis of nanostructures to optimize design parameters.
+- Using machine learning to predict performance of designs.
 
-### Composites Research Project
+### Composites Research Projects
 
 - Researching the material properties, manufacturing, and applications for mycelium-based biocomposites.
+- Studying the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
 
 ## KATERRA, Seattle, WA **2019-2020**
 
 ### Manufactured Assemblies Design Engineer
 
-- Designed building components to be built in a prefabrication factory and installed on a construction site. Integrated structural, electrical, plumbing and finish components for easy installation.
-- Developed a bathroom kit to provide detailed BOMs and drawings for factory assembly and job site installation.
+- Designed building components to be built in a factory and installed on a construction site, integrating structural, electrical, and plumbing components.
+- Developed a bathroom kit in SolidWorks to provide detailed BOMs and drawings for assembly and installation.
 - Created automated model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
 - Built prototypes of manufactured building components to test part and assembly sizing, and to confirm tolerances.
 
@@ -67,12 +69,12 @@ Don't use complete sentences
 
 ### Design and Integration Engineer
 
-Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries, and coordinated extensively with customer representatives throughout design, testing, and production.
+Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.
 
-- Conducted root cause analysis of failed valves. Disassembled valve to investigate the cause, and retested to confirm the problem.
-- Redesigned the 737 airstair to include new safety features and to increase height. From a high level work statement, investigated the extent of change required, and found solutions to various problems discovered during development and testing.
-- Integrated 737 airstair design into the aircraft structure, and built a complete CATIA assembly and kinematic model to ensure proper fit and operation.
-- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components, all designed to fit into a small space.
+- Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the problem.
+- Redesigned the 737 airstair to include new safety features and to increase height. Managed all changes from start to finish, and built a full CATIA model.
+- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
+- Coordinated directly with customer and supplier representatives to collaborate on designs.
 
 &nbsp;
 
@@ -80,12 +82,11 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 
 ### Structural Design Engineer
 
-Took ownership of part concepts and designs, collaboration with stress analysts, manufacturing engineering, suppliers, and other design groups. Worked on initial design through production on the 747-8 and 767 tanker, on the wing, tail, and body.
-
-- Designed aluminum and composite parts, and assemblies large and small. Optimized parts for weight and cost without compromising on strength.
-- Coordinated with Boeing and supplier production facilities from concept to production, to ensure parts are easy to manufacture and assemble, making visits as parts were being produced to ensure quality production.
-- Integrated electrical wiring, mechanical systems and fluid systems into the structural design, working closely with members of other teams to provide the best design.
-- Redesigned a critical structural member in the 747 wing, replacing an assembly with hundreds of parts with a single part, in order to reduce weight and assembly time.
+- Designed aluminum and composite structural parts and assemblies on 747-8 and 767.
+- Coordinated with production facilities from concept to production, to ensure ease of manufacture and assembly.
+- Integrated wiring and systems into structural design.
+- Coordinated across groups and disciplines to manage design completion.
+- Redesigned critical structural members to reduce weight and complexity.
 - Corrected factory production problems through examining drawings and completed parts.
 
 &nbsp;
@@ -98,10 +99,11 @@ Took ownership of part concepts and designs, collaboration with stress analysts,
 - Worked from concept through production providing designs and production drawings in Solidworks.
 
 &nbsp;
-<!-- consider moving these to the top-->
+<!-- consider moving these to the top
 # OTHER ACTIVITIES & SKILLS
 
 - Experienced in SolidWorks (Certified SolidWorks Professional), CATIA V5, and AutoCAD.
 - Design of sheet metal, extruded, machined plate, and composite parts, small and large assemblies. 3D and 2D assembly and detail part definition. Understanding of reasonable tolerances, and how to apply GD&T.
 
 &nbsp;
+-->
