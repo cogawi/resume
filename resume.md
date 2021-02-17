@@ -21,12 +21,12 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
-- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy
+- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy, Advanced Manufacturing and Energy Technologies
 - Planned Course of Study: Composites, Design for additive manufacturing, Renewable energy and green technology.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
-- Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, Finite Element Analysis, Renewable Energy, Design for Environment.
+- Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, FEA, Renewable Energy, Design for Environment.
 - Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
 &nbsp;
@@ -43,8 +43,8 @@ Don't use complete sentences
 
 ### Graduate Student Researcher in the Meza Research Group
 
-- Researching structural and thermal properties of nano-scale 3D printed spinodoid structures, under Professor Lucas Meza.
-- Performing FEA analysis of nanostructures to optimize design parameters.
+- Investigating structural and thermal properties of nano-scale 3D printed spinodal structures, under Professor Lucas Meza.
+- Performing FEA analysis in Abaqus of nanostructures to optimize design parameters.
 - Using machine learning to predict performance of designs.
 
 ### Composites Research Projects
@@ -53,6 +53,34 @@ Don't use complete sentences
 - Studying the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
 
 &nbsp;
+
+## SAFRAN AEROSYSTEMS, Everett, WA **2015-2019**
+
+### Design and Integration Engineer
+<!--
+Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
+
+- Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the problem.
+- Developed a new 737 airstair with additional safety features and increased height. Managed all changes from start to finish, and built a full CATIA model.
+- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
+- Coordinated directly with customer and supplier representatives to collaborate on designs.
+
+&nbsp;
+
+## BOEING COMMERCIAL AIRPLANES, Everett, WA **2006 – 2012, 2014**
+
+### Structural Design Engineer
+
+- Designed aluminum and composite structural parts and assemblies on 747-8 and 767.
+- Coordinated with production facilities from concept to production, to ensure ease of manufacture and assembly.
+<!-- Integrated wiring and systems into structural design.-->
+- Worked across groups and disciplines to manage design completion and define interfaces.
+- Redesigned critical structural members to reduce weight and complexity.
+- Implemented solutions to factory production problems by inspecting completed and installed parts, and examining drawing history for errors.
+
+&nbsp;
+
+# ADDITIONAL EXPERIENCE
 
 ## KATERRA, Seattle, WA **2019-2020**
 
@@ -65,38 +93,12 @@ Don't use complete sentences
 
 &nbsp;
 
-## SAFRAN AEROSYSTEMS, Everett, WA **2015-2019**
-
-### Design and Integration Engineer
-<!--
-Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
-
-- Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the problem.
-- Redesigned the 737 airstair to include new safety features and to increase height. Managed all changes from start to finish, and built a full CATIA model.
-- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
-- Coordinated directly with customer and supplier representatives to collaborate on designs.
-
-&nbsp;
-
-## BOEING COMMERCIAL AIRPLANES, Everett, WA **2006 – 2012, 2014**
-
-### Structural Design Engineer
-
-- Designed aluminum and composite structural parts and assemblies on 747-8 and 767.
-- Coordinated with production facilities from concept to production, to ensure ease of manufacture and assembly.
-- Integrated wiring and systems into structural design.
-- Coordinated across groups and disciplines to manage design completion.
-- Redesigned critical structural members to reduce weight and complexity.
-- Corrected factory production problems through examining drawings and completed parts.
-
-&nbsp;
-
 ## KVICHAK MARINE INDUSTRIES, Seattle, WA **2012 – 2014**
 
 ### Project Engineer
 
 - Developed structure and mechanical system designs for aluminum hulled boats.
-- Worked from concept through production providing designs and production drawings in Solidworks.
+- Worked from concept to production providing designs and drawings in Solidworks.
 
 &nbsp;
 <!-- consider moving these to the top
