@@ -4,32 +4,30 @@ Include anything in experience that relates to the current direction as the top 
 
 # SUMMARY OF QUALIFICATIONS
 
-<!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. -->
-- A passionate learner ready to apply extensive experience to new fields and technologies.
+<!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. 
+- A passionate learner ready to apply extensive experience to new fields and technologies. -->
 <!-- Enthusiastic about green technology and renewable energy.***-->
-- Knowledgeable in static, dynamic explicit, and thermal FEA.
-- Experienced in composite design and analysis, including green biocomposites. <!--(match format with adjective at front)-->
-<!-- Experienced in R&D through university lab research.-->
 - Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
+- Knowledgeable in static, dynamic explicit, and thermal FEA.
+- Strong interest in composite design and analysis, including green biocomposites. <!--(match format with adjective at front)-->
+<!-- Experienced in R&D through university lab research.-->
 - Proficient in Mandarin Chinese and Spanish, ready to directly engage with overseas partners.
 
 &nbsp;
 
 # EDUCATION
 
-## UNIVERSITY OF WASHINGTON
+## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-Present**
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
-Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy
-
-Planned Course of Study: Composites, Design for additive manufacturing, Renewable energy and green technology.
+- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy
+- Planned Course of Study: Composites, Design for additive manufacturing, Renewable energy and green technology.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
-Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, Finite Element Analysis, Renewable Energy, Design for Environment.
-
-Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
+- Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, Finite Element Analysis, Renewable Energy, Design for Environment.
+- Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
 &nbsp;
 
@@ -39,9 +37,9 @@ Spend less time describing details of project, and more about what I know how to
 Don't use complete sentences
 -->
 
-# EXPERIENCE
+# RELEVANT EXPERIENCE
 
-## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-  Present**
+## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-Present**
 
 ### Graduate Student Researcher in the Meza Research Group
 
@@ -53,6 +51,8 @@ Don't use complete sentences
 
 - Researching the material properties, manufacturing, and applications for mycelium-based biocomposites.
 - Studying the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
+
+&nbsp;
 
 ## KATERRA, Seattle, WA **2019-2020**
 
@@ -68,8 +68,8 @@ Don't use complete sentences
 ## SAFRAN AEROSYSTEMS, Everett, WA **2015-2019**
 
 ### Design and Integration Engineer
-
-Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.
+<!--
+Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
 
 - Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the problem.
 - Redesigned the 737 airstair to include new safety features and to increase height. Managed all changes from start to finish, and built a full CATIA model.
