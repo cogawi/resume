@@ -6,18 +6,15 @@ Include anything in experience that relates to the current direction as the top 
 
 <!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. 
 - A passionate learner ready to apply extensive experience to new fields and technologies. -->
-<!-- Enthusiastic about green technology and renewable energy.***-->
 - Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
 - Knowledgeable in static, dynamic explicit, and thermal FEA.
-- Strong interest in composite design and analysis, including green biocomposites. <!--(match format with adjective at front)-->
+- Strong interest in composite design and analysis, biocomposites, and renewable energy.
 <!-- Experienced in R&D through university lab research.-->
 - Proficient in Mandarin Chinese and Spanish, ready to directly engage with overseas partners.
 
-&nbsp;
-
 # EDUCATION
 
-## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-Present**
+## UNIVERSITY OF WASHINGTON, Seattle, WA
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
@@ -29,32 +26,27 @@ Include anything in experience that relates to the current direction as the top 
 - Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, FEA, Renewable Energy, Design for Environment.
 - Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
-&nbsp;
-
 <!-- shorter bullets
 purpose of resume is to get an interview. I can explain everything in the interview.
 Spend less time describing details of project, and more about what I know how to do
-Don't use complete sentences
 -->
 
 # RELEVANT EXPERIENCE
 
-## UNIVERSITY OF WASHINGTON, Seattle, WA **2020-Present**
+## UNIVERSITY OF WASHINGTON, Seattle, WA &#9; *2020 - Present*
 
 ### Graduate Student Researcher in the Meza Research Group
 
 - Investigating structural and thermal properties of nano-scale 3D printed spinodal structures, under Professor Lucas Meza.
-- Performing FEA analysis in Abaqus of nanostructures to optimize design parameters.
-- Using machine learning to predict performance of designs.
+- Performing FEA analysis in Abaqus of nanostructures to determine design capability.
+- Using machine learning to determine ideal structural topology to meet design needs.
 
 ### Composites Research Projects
 
 - Researching the material properties, manufacturing, and applications for mycelium-based biocomposites.
 - Studying the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
 
-&nbsp;
-
-## SAFRAN AEROSYSTEMS, Everett, WA **2015-2019**
+## SAFRAN AEROSYSTEMS, Everett, WA &#9; *2015 - 2019*
 
 ### Design and Integration Engineer
 <!--
@@ -65,9 +57,7 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 - Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
 - Coordinated directly with customer and supplier representatives to collaborate on designs.
 
-&nbsp;
-
-## BOEING COMMERCIAL AIRPLANES, Everett, WA **2006 – 2012, 2014**
+## BOEING COMMERCIAL AIRPLANES, Everett, WA &#9; *2006 – 2012, 2014*
 
 ### Structural Design Engineer
 
@@ -78,11 +68,9 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 - Redesigned critical structural members to reduce weight and complexity.
 - Implemented solutions to factory production problems by inspecting completed and installed parts, and examining drawing history for errors.
 
-&nbsp;
-
 # ADDITIONAL EXPERIENCE
 
-## KATERRA, Seattle, WA **2019-2020**
+## KATERRA, Seattle, WA &#9; *2019 - 2020*
 
 ### Manufactured Assemblies Design Engineer
 
@@ -91,21 +79,9 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 - Created automated model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
 - Built prototypes of manufactured building components to test part and assembly sizing, and to confirm tolerances.
 
-&nbsp;
-
-## KVICHAK MARINE INDUSTRIES, Seattle, WA **2012 – 2014**
+## KVICHAK MARINE INDUSTRIES, Seattle, WA &#9; *2012 – 2014*
 
 ### Project Engineer
 
 - Developed structure and mechanical system designs for aluminum hulled boats.
 - Worked from concept to production providing designs and drawings in Solidworks.
-
-&nbsp;
-<!-- consider moving these to the top
-# OTHER ACTIVITIES & SKILLS
-
-- Experienced in SolidWorks (Certified SolidWorks Professional), CATIA V5, and AutoCAD.
-- Design of sheet metal, extruded, machined plate, and composite parts, small and large assemblies. 3D and 2D assembly and detail part definition. Understanding of reasonable tolerances, and how to apply GD&T.
-
-&nbsp;
--->
