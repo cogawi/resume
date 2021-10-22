@@ -18,7 +18,7 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
-- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy, Advanced Manufacturing and Energy Technologies
+- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy, Advanced Manufacturing for Renewable Energy.
 - Planned Course of Study: Composites, Design for additive manufacturing, Renewable energy and green technology.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
@@ -33,20 +33,21 @@ Spend less time describing details of project, and more about what I know how to
 
 # RELEVANT EXPERIENCE
 
-## UNIVERSITY OF WASHINGTON, Seattle, WA &#9; *2020 - Present*
+## UNIVERSITY OF WASHINGTON, Seattle, WA&#9;*2020 - Present*
 
 ### Graduate Student Researcher in the Meza Research Group
 
-- Investigating structural and thermal properties of nano-scale 3D printed spinodal structures, under Professor Lucas Meza.
-- Performing FEA analysis in Abaqus of nanostructures to determine design capability.
-- Using machine learning to determine ideal structural topology to meet design needs.
+- Investigating nano-scale 3D printed spinodal structures, coated with atomic layer deposition, designed for thermal shock and impact resistance.
+- Performing structural and thermal FEA analysis in Abaqus, automated with Python scripting.
+- Developing automated structure generation using Matlab.
+- Using Python for machine learning to determine ideal structural topology to meet design needs.
 
 ### Composites Research Projects
 
 - Researching the material properties, manufacturing, and applications for mycelium-based biocomposites.
 - Studying the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
 
-## SAFRAN AEROSYSTEMS, Everett, WA &#9; *2015 - 2019*
+## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
 
 ### Design and Integration Engineer
 <!--
@@ -57,7 +58,7 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 - Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
 - Coordinated directly with customer and supplier representatives to collaborate on designs.
 
-## BOEING COMMERCIAL AIRPLANES, Everett, WA &#9; *2006 – 2012, 2014*
+## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*2006 – 2012, 2014*
 
 ### Structural Design Engineer
 
@@ -70,7 +71,7 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 
 # ADDITIONAL EXPERIENCE
 
-## KATERRA, Seattle, WA &#9; *2019 - 2020*
+## KATERRA, Seattle, WA&#9;*2019 - 2020*
 
 ### Manufactured Assemblies Design Engineer
 
@@ -79,7 +80,7 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 - Created automated model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
 - Built prototypes of manufactured building components to test part and assembly sizing, and to confirm tolerances.
 
-## KVICHAK MARINE INDUSTRIES, Seattle, WA &#9; *2012 – 2014*
+## KVICHAK MARINE INDUSTRIES, Seattle, WA&#9;*2012 – 2014*
 
 ### Project Engineer
 
