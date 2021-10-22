@@ -10,7 +10,7 @@ Include anything in experience that relates to the current direction as the top 
 - Knowledgeable in static, dynamic explicit, and thermal FEA.
 - Strong interest in composite design and analysis, biocomposites, and renewable energy.
 <!-- Experienced in R&D through university lab research.-->
-- Proficient in Mandarin Chinese and Spanish, ready to directly engage with overseas partners.
+- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.
 
 # EDUCATION
 
@@ -18,8 +18,8 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
-- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Nanocomposites and Biocomposites, Marine Renewable Energy, Advanced Manufacturing for Renewable Energy.
-- Planned Course of Study: Composites, Design for additive manufacturing, Renewable energy and green technology.
+- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Elasticity, Nanocomposites and Biocomposites, Renewable Energy.
+- Planned Course of Study: Composites, Additive manufacturing, Renewable energy and green technology.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
@@ -37,15 +37,22 @@ Spend less time describing details of project, and more about what I know how to
 
 ### Graduate Student Researcher in the Meza Research Group
 
-- Investigating nano-scale 3D printed spinodal structures, coated with atomic layer deposition, designed for thermal shock and impact resistance.
+- Investigating nano-scale 3D printed shell structures, designed for thermal shock and impact resistance.
 - Performing structural and thermal FEA analysis in Abaqus, automated with Python scripting.
-- Developing automated structure generation using Matlab.
-- Using Python for machine learning to determine ideal structural topology to meet design needs.
+- Developing automated nanostructure generation using MATLAB and Python.
+- Using machine learning to determine ideal structural parameters.
 
 ### Composites Research Projects
 
-- Researching the material properties, manufacturing, and applications for mycelium-based biocomposites.
-- Studying the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
+- Researched the material properties, manufacturing, and applications for fungus-based biocomposites.
+- Studied the manufacture of cellulose fibers out of bacterial cellulose nanofibers.
+
+## DISCRETE LATTICE INDUSTRIES, Seattle, WA&#9;*2021*
+<!-- Complete section-->
+### Mechanical Engineer
+- Produced trade studies regarding the use of lattice structure in a wind turbine blade.
+- Conducted FEA analysis in Ansys to determine impact of different lattice parameters.
+- Developed Python and MATLAB scripts to perform structural calculations and interface with Ansys.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
 
@@ -54,9 +61,9 @@ Spend less time describing details of project, and more about what I know how to
 Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
 
 - Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the problem.
-- Developed a new 737 airstair with additional safety features and increased height. Managed all changes from start to finish, and built a full CATIA model.
-- Designed an aircraft galley fluid waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
-- Coordinated directly with customer and supplier representatives to collaborate on designs.
+- Developed a new 737 airstair with extra safety features and increased height.
+- Designed an aircraft galley waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
+- Coordinated with customers and suppliers.
 
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*2006 – 2012, 2014*
 
@@ -75,8 +82,8 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 
 ### Manufactured Assemblies Design Engineer
 
-- Designed building components to be built in a factory and installed on a construction site, integrating structural, electrical, and plumbing components.
-- Developed a bathroom kit in SolidWorks to provide detailed BOMs and drawings for assembly and installation.
+- Designed building components for off-site fabrication, integrating structural, electrical, and plumbing components.
+- Developed a bathroom kit in SolidWorks, providing detailed BOMs and drawings for assembly and installation.
 - Created automated model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
 - Built prototypes of manufactured building components to test part and assembly sizing, and to confirm tolerances.
 
