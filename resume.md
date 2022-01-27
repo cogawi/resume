@@ -18,8 +18,7 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, Expected Graduation June 2022
 
-- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Elasticity, Nanocomposites and Biocomposites, Renewable Energy.
-- Planned Course of Study: Composites, Additive manufacturing, Renewable energy and green technology.
+- Courses: Mechanical Engineering Analysis, Composite Design and Analysis, Elasticity, Nanocomposites and Biocomposites, Renewable Energy, FEA.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
@@ -37,7 +36,7 @@ Spend less time describing details of project, and more about what I know how to
 
 ### Graduate Student Researcher in the Meza Research Group
 
-- Investigating nano-scale 3D printed shell structures, designed for thermal shock and impact resistance.
+- Investigating nano-scale 3D printed structures, designed for thermal shock and impact resistance.
 - Performing structural and thermal FEA analysis in Abaqus, automated with Python scripting.
 - Developing automated nanostructure generation using MATLAB and Python.
 - Using machine learning to determine ideal structural parameters.
@@ -52,7 +51,7 @@ Spend less time describing details of project, and more about what I know how to
 ### Mechanical Engineer
 - Produced trade studies regarding the use of lattice structure in a wind turbine blade.
 - Conducted FEA analysis in Ansys to determine impact of different lattice parameters.
-- Developed Python and MATLAB scripts to perform structural calculations and interface with Ansys.
+- Developed Python and MATLAB scripts for structural calculations and to interface with Ansys.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
 
@@ -60,7 +59,7 @@ Spend less time describing details of project, and more about what I know how to
 <!--
 Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
 
-- Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the problem.
+- Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the cause of failure.
 - Developed a new 737 airstair with extra safety features and increased height.
 - Designed an aircraft galley waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
 - Coordinated with customers and suppliers.
@@ -70,11 +69,11 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 ### Structural Design Engineer
 
 - Designed aluminum and composite structural parts and assemblies on 747-8 and 767.
-- Coordinated with production facilities from concept to production, to ensure ease of manufacture and assembly.
+- Coordinated with production facilities from concept to production, to ensure ease of manufacture.
 <!-- Integrated wiring and systems into structural design.-->
 - Worked across groups and disciplines to manage design completion and define interfaces.
 - Redesigned critical structural members to reduce weight and complexity.
-- Implemented solutions to factory production problems by inspecting completed and installed parts, and examining drawing history for errors.
+- Implemented solutions to factory production problems by inspecting completed and installed parts.
 
 # ADDITIONAL EXPERIENCE
 
