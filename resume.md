@@ -4,8 +4,7 @@ Include anything in experience that relates to the current direction as the top 
 
 # SUMMARY OF QUALIFICATIONS
 
-<!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. 
-- A passionate learner ready to apply extensive experience to new fields and technologies. -->
+<!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. -->
 - Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
 - Knowledgeable in static, dynamic explicit, and thermal FEA.
 - Strong interest in renewable energy, composite design and analysis.
@@ -18,39 +17,33 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, March 2023
 
-- Courses: Renewable Energy (Wind, Waves, and Tides), Advanced Manufacturing and Energy Technologies, Composite Design and Analysis, Elasticity, Nanocomposites and Biocomposites, FEA, Mechanical Engineering Analysis.
-- Thesis: Large Strain Finite Element Analysis of Spinodal Shell Structures
+Thesis: Large Strain Finite Element Analysis of Spinodal Shell Structures
+<!-- Add description of thesis and other research work-->
+
+Graduate Student Researcher under Lucas Meza:
+
+- Conducted structural and thermal FEA analysis in Abaqus, automated with Python scripting.
+- Developed automated nanostructure generation using MATLAB and Python.
+
+Courses: Renewable Energy, Battery and Solar Cell Manufacturing, FEA, Composite Design and Analysis, Elasticity, Nanocomposites and Biocomposites.
+
+Other research projects:
+
+- Researched properties, manufacturing, and applications for fungus and bacterial cellulose-based biocomposites.
+- Studied self-assembly and 3D printing of lithium-ion battery electrodes.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
-- Courses: Materials and Structures, <!--Mechanical Systems Analysis, -->CAD, FEA, Renewable Energy, Design for Environment.
+- Courses: Materials and Structures, CAD, FEA, Renewable Energy, Design for Environment.
 - Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
-<!-- shorter bullets
-purpose of resume is to get an interview. I can explain everything in the interview.
-Spend less time describing details of project, and more about what I know how to do
--->
-
 # RELEVANT EXPERIENCE
-
-## UNIVERSITY OF WASHINGTON, Seattle, WA&#9;*2020 - 2023*
-
-### Graduate Student Researcher in the Meza Research Group
-
-- Performing structural and thermal FEA analysis in Abaqus, automated with Python scripting.
-- Developing automated nanostructure generation using MATLAB and Python.
-<!-- Using machine learning to determine ideal structural parameters.-->
-
-### Composites Research Projects
-
-- Researched the properties, manufacturing, and applications for fungus and bacterial cellulose based biocomposites.
-- Studied self-assembly and 3D printing of lithium-ion battery electrodes
 
 ## DISCRETE LATTICE INDUSTRIES, Seattle, WA&#9;*2021*
 
 ### Mechanical Engineer
 - Produced trade studies regarding the use of lattice structure in a wind turbine blade.
-- Conducted FEA analysis in Ansys to determine impact of different lattice parameters.
+- Conducted FEA analysis in Ansys to determine impact of structural parameters.
 - Developed Python and MATLAB scripts for structural calculations and to interface with Ansys.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
@@ -59,23 +52,20 @@ Spend less time describing details of project, and more about what I know how to
 <!--
 Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
 
-- Conducted root cause analysis of failed valves, disassembling failed specimens and testing to confirm the cause of failure.
-- Developed a new passenger boarding stair for the 737 with extra safety features and increased height.
-- Designed an aircraft galley waste disposal system, producing designs for structural support of valves, a tank, sensors, and electrical components.
-- Coordinated with customers and suppliers.
-
+- Conducted root cause analysis of failed aircraft waste valves.
+- Developed a new passenger boarding stair for the 737 MAX with extra safety features.
+- Designed an aircraft galley waste disposal system.
+<!-- Coordinated with customers and suppliers.-->
 
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*2006 – 2012, 2014*
 
 ### Structural Design Engineer
 
 - Designed aluminum and composite structural parts and assemblies on 747-8 and 767.
-- Coordinated with production facilities from concept to production, to ensure ease of manufacture.
-<!-- Integrated wiring and systems into structural design.-->
+- Coordinated with production facilities from concept to production.
 - Worked across groups and disciplines to manage design completion and define interfaces.
 - Redesigned critical structural members to reduce weight and complexity.
 - Implemented solutions to factory production problems by inspecting completed and installed parts.
-
 
 # ADDITIONAL EXPERIENCE
 
