@@ -43,8 +43,8 @@ Other research projects:
 
 ### Mechanical Engineer
 - Produced trade studies regarding the use of lattice structure in a wind turbine blade.
-- Conducted FEA analysis in Ansys to determine impact of structural parameters.
-- Developed Python and MATLAB scripts for structural calculations and to interface with Ansys.
+- Conducted FEA analysis in Ansys to determine optimal structural parameters.
+- Developed Python and MATLAB scripts for structural calculations and Ansys postprocessing.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
 
