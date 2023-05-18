@@ -2,12 +2,12 @@
 Include anything in experience that relates to the current direction as the top under each section
 -->
 
-# SUMMARY OF QUALIFICATIONS
+# MECHANICAL ENGINEER
 
 <!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. -->
-- Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
-- Knowledgeable in static, dynamic explicit, and thermal FEA.
-- Strong interest in renewable energy, composite design and analysis.
+Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
+Knowledgeable in static, dynamic explicit, and thermal FEA.
+Strong interest in renewable energy, composite design and analysis.
 <!-- Experienced in R&D through university lab research.-->
 <!-- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.-->
 
@@ -17,20 +17,19 @@ Include anything in experience that relates to the current direction as the top 
 
 ### Master of Science in Mechanical Engineering, March 2023
 
-Thesis: Large Strain Finite Element Analysis of Spinodal Shell Structures
-<!-- Add description of thesis and other research work-->
+Thesis, under Professor Lucas Meza: Large Strain Finite Element Analysis of Spinodal Shell Structures
 
-Graduate Student Researcher under Lucas Meza:
+- Modeled compression tests using FEA to match experimental results.
+- Studied structural behavior of test samples, focused on stress distribution, and damage localization.
+- Developed mesh processing and FEA postprocessing methods using Python and MATLAB.
+- Conducted structural and thermal FEA analysis in Abaqus.
 
-- Conducted structural and thermal FEA analysis in Abaqus, automated with Python scripting.
-- Developed automated nanostructure generation using MATLAB and Python.
+Courses: Renewable Energy, Battery and Solar Cell Manufacturing, FEA, Elasticity, Composite Design and Analysis, Nanocomposites and Biocomposites.
 
-Courses: Renewable Energy, Battery and Solar Cell Manufacturing, FEA, Composite Design and Analysis, Elasticity, Nanocomposites and Biocomposites.
+Research projects:
 
-Other research projects:
-
-- Researched properties, manufacturing, and applications for fungus and bacterial cellulose-based biocomposites.
 - Studied self-assembly and 3D printing of lithium-ion battery electrodes.
+- Researched manufaturing and material properties of fungus and bacterial cellulose-based biocomposites.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
@@ -42,7 +41,7 @@ Other research projects:
 ## DISCRETE LATTICE INDUSTRIES, Seattle, WA&#9;*2021*
 
 ### Mechanical Engineer
-- Produced trade studies regarding the use of lattice structure in a wind turbine blade.
+- Produced trade studies on the use of a lattice framework to support on-site manufaturing of wind turbine blades.
 - Conducted FEA analysis in Ansys to determine optimal structural parameters.
 - Developed Python and MATLAB scripts for structural calculations and Ansys postprocessing.
 
@@ -50,10 +49,9 @@ Other research projects:
 
 ### Manufactured Assemblies Design Engineer
 
-- Designed building components for off-site fabrication, integrating structural, electrical, and plumbing components.
-- Developed a bathroom kit in SolidWorks, providing detailed BOMs and drawings for assembly and installation.
+- Developed bathroom kits in SolidWorks, providing BOMs and drawings for assembly and installation.
 - Created automated model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
-- Built prototypes of manufactured building components to test part and assembly sizing, and to confirm tolerances.
+- Built prototypes of building components to test functionality, dimensions, and tolerances.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
 
@@ -70,11 +68,10 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 
 ### Structural Design Engineer
 
-- Designed aluminum and composite structural parts and assemblies on 747-8 and 767.
+- Designed critical structural parts and assemblies on 747-8 and 767, using CATIA V5.
 - Coordinated with production facilities from concept to production.
 - Worked across groups and disciplines to manage design completion and define interfaces.
-- Redesigned critical structural members to reduce weight and complexity.
-- Implemented solutions to factory production problems by inspecting completed and installed parts.
+- Developed design solutions to factory production problems.
 
 ## KVICHAK MARINE INDUSTRIES, Seattle, WA&#9;*2012 – 2014*
 
