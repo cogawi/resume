@@ -2,10 +2,8 @@
 Include anything in experience that relates to the current direction as the top under each section
 -->
 
-# PROFESSIONAL SUMMARY
-
 Mechanical engineer with 14 years of industry experience in structural design and design for manufacturing.
-Master's in Mechanical Engineering, with thesis work on finite element modeling of nanomaterials.
+Master's in Mechanical Engineering, with thesis work on numerical modeling of nanomaterials.
 Dedicated to working toward the clean energy transition.
 <!-- Experienced in R&D through university lab research.-->
 <!-- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.-->
@@ -28,7 +26,6 @@ Dedicated to working toward the clean energy transition.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
-- Courses: Materials and Structures, CAD, FEA, Renewable Energy, Design for Environment.
 - Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
 # WORK EXPERIENCE
@@ -51,13 +48,10 @@ Dedicated to working toward the clean energy transition.
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
 
 ### Design and Integration Engineer
-<!--
-Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
 
-- Developed a new passenger boarding stair for the 737 MAX.
-- Conducted root cause analysis of failed aircraft waste valves.
-- Designed an aircraft galley drain system with structure, sensors, and plumbing.
-<!-- Coordinated with customers and suppliers.-->
+- Led design work on a passenger boarding stair for the 737, coordinating with engineers and manufacturing.
+- Conducted root cause analysis of failed aircraft waste valves, working with suppliers and customers.
+- Designed an aircraft galley drain system integrating structure, sensors, and plumbing.
 
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*2006 – 2012, 2014*
 
