@@ -17,19 +17,16 @@ Strong interest in renewable energy, composite design and analysis.
 
 ### Master of Science in Mechanical Engineering, March 2023
 
-Thesis, under Professor Lucas Meza: Large Strain Finite Element Analysis of Spinodal Shell Structures
+#### Thesis: Large Strain Finite Element Analysis of Spinodal Shell Structures
 
-- Modeled compression tests using FEA to match experimental results.
+- Created FEA models of compression tests in Abaqus to match experimental results.
 - Studied structural behavior of test samples, focused on stress distribution, and damage localization.
 - Developed mesh processing and FEA postprocessing methods using Python and MATLAB.
-- Conducted structural and thermal FEA analysis in Abaqus.
+- Studied nanomaterial behavior in harsh environments with dynamic and thermal FEA.
 
-Courses: Renewable Energy, Battery and Solar Cell Manufacturing, FEA, Elasticity, Composite Design and Analysis, Nanocomposites and Biocomposites.
-
-Research projects:
-
-- Studied self-assembly and 3D printing of lithium-ion battery electrodes.
-- Researched manufaturing and material properties of fungus and bacterial cellulose-based biocomposites.
+#### Courses and Projects
+- Courses: Renewable Energy, Battery and Solar Cell Manufacturing, FEA, Elasticity, Composite Design and Analysis, Nanocomposites and Biocomposites.
+- Research projects: Self-assembly and 3D printing of lithium-ion battery electrodes. Manufacturing and material properties of fungus and bacterial cellulose-based biocomposites.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
@@ -77,5 +74,5 @@ Responsible for structural, mechanical, and fluid system designs; worked on deta
 
 ### Project Engineer
 
-- Developed structure and mechanical system designs for aluminum hulled boats.
+- Developed structure and mechanical system designs for aluminum hulled boats, designed for extreme operating environments.
 - Worked from concept to production providing designs and drawings in Solidworks.
