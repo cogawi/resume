@@ -4,10 +4,9 @@ Include anything in experience that relates to the current direction as the top 
 
 # MECHANICAL ENGINEER
 
-<!--- Mechanical engineer with the heart of an inventor, a problem solver with the ability to design and build products. Experienced in bringing products from concept through production, with feedback from the customer and supplier throughout the process. -->
-Fourteen years of mechanical and structural design experience, working with SolidWorks and CATIA.
-Knowledgeable in static, dynamic explicit, and thermal FEA.
-Strong interest in renewable energy, composite design and analysis.
+Experienced mechanical engineer with industry experience in structural design and design for manufacturing.
+Master's in Mechanical Engineering, with thesis work on FEA of nanomaterials.
+Dedicated to working toward the clean energy transition.
 <!-- Experienced in R&D through university lab research.-->
 <!-- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.-->
 
@@ -20,8 +19,7 @@ Strong interest in renewable energy, composite design and analysis.
 #### Thesis: Large Strain Finite Element Analysis of Spinodal Shell Structures
 
 - Created FEA models of compression tests in Abaqus to match experimental results.
-- Studied structural behavior of test samples, focused on stress distribution, and damage localization.
-- Developed mesh processing and FEA postprocessing methods using Python and MATLAB.
+- Developed FEA postprocessing methods in Python, to quantify structural behavior, stress distribution, and damage localization.
 - Studied nanomaterial behavior in harsh environments with dynamic and thermal FEA.
 
 #### Courses and Projects
@@ -38,7 +36,7 @@ Strong interest in renewable energy, composite design and analysis.
 ## DISCRETE LATTICE INDUSTRIES, Seattle, WA&#9;*2021*
 
 ### Mechanical Engineer
-- Produced trade studies on the use of a lattice framework to support on-site manufaturing of wind turbine blades.
+- Produced trade studies on the use of a lattice framework to support on-site manufacturing of wind turbine blades.
 - Conducted FEA analysis in Ansys to determine optimal structural parameters.
 - Developed Python and MATLAB scripts for structural calculations and Ansys postprocessing.
 
@@ -47,7 +45,7 @@ Strong interest in renewable energy, composite design and analysis.
 ### Manufactured Assemblies Design Engineer
 
 - Developed bathroom kits in SolidWorks, providing BOMs and drawings for assembly and installation.
-- Created automated model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
+- Created model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
 - Built prototypes of building components to test functionality, dimensions, and tolerances.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
@@ -57,7 +55,7 @@ Strong interest in renewable energy, composite design and analysis.
 Responsible for structural, mechanical, and fluid system designs; worked on detail designs as well as integration of parts and assemblies into the aircraft with minimal interface information. Collaborated across multiple sites in different countries.-->
 
 - Conducted root cause analysis of failed aircraft waste valves.
-- Developed a new passenger boarding stair for the 737 MAX with extra safety features.
+- Developed a new passenger boarding stair for the 737 MAX.
 - Designed an aircraft galley drain system with structure, sensors, and plumbing.
 <!-- Coordinated with customers and suppliers.-->
 
