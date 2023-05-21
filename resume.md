@@ -1,9 +1,10 @@
 <!--Notes
 Include anything in experience that relates to the current direction as the top under each section
 -->
+&nbsp;
 
-Mechanical engineer with 14 years of industry experience in structural design and design for manufacturing.
-Master's in Mechanical Engineering, with thesis work on numerical modeling of nanomaterials.
+Mechanical Engineer with 14 years of industry experience in structural design and design for manufacturing.
+Master's Degree in Mechanical Engineering, with thesis work on numerical modeling of nanomaterials.
 Dedicated to working toward the clean energy transition.
 <!-- Experienced in R&D through university lab research.-->
 <!-- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.-->
@@ -16,16 +17,18 @@ Dedicated to working toward the clean energy transition.
 
 #### Thesis: Large Strain Finite Element Analysis of Spinodal Shell Structures
 
-- Created finite element analysis (FEA) models of compression tests in Abaqus to match experimental results.
+- Created finite element analysis (FEA) models in Abaqus to match compression test results.
 - Developed FEA postprocessing methods in Python, to quantify structural behavior, stress distribution, and damage localization.
 - Studied nanomaterial behavior in harsh environments with dynamic and thermal FEA.
 
-#### Courses and Projects
+#### Courses and Projects:
+
 - Courses: Renewable Energy, Battery and Solar Cell Manufacturing, FEA, Elasticity, Composite Design and Analysis, Nanocomposites and Biocomposites.
 - Research projects: Self-assembly and 3D printing of lithium-ion battery electrodes. Manufacturing and material properties of fungus and bacterial cellulose-based biocomposites.
 
 ### Bachelor of Science in Mechanical Engineering, Cum Laude, June 2006
 
+- Courses: Materials and Structures, CAD, FEA, Renewable Energy, Design for Environment.
 - Projects: Formula SAE drivetrain design, Fuel Cell capstone project.
 
 # WORK EXPERIENCE
@@ -33,8 +36,8 @@ Dedicated to working toward the clean energy transition.
 ## DISCRETE LATTICE INDUSTRIES, Seattle, WA&#9;*2021*
 
 ### Mechanical Engineer
-- Conducted trade studies on the use of a lattice framework to support on-site manufacturing of wind turbine blades.
-- Performed FEA analysis in Ansys to determine optimal structural parameters.
+- Conducted trade studies on the use of a lattice structure in wind turbine blades.
+- Performed FEA in Ansys to determine blade deflectino and test optimal structural parameters.
 - Developed Python and MATLAB scripts for structural calculations and Ansys postprocessing.
 
 ## KATERRA, Seattle, WA&#9;*2019 - 2020*
@@ -49,7 +52,7 @@ Dedicated to working toward the clean energy transition.
 
 ### Design and Integration Engineer
 
-- Led design work on a passenger boarding stair for the 737, coordinating with engineers and manufacturing.
+- Led design work on a passenger loading stair for the 737, working with engineers and manufacturing.
 - Conducted root cause analysis of failed aircraft waste valves, working with suppliers and customers.
 - Designed an aircraft galley drain system integrating structure, sensors, and plumbing.
 
