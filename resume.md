@@ -3,9 +3,9 @@ Include anything in experience that relates to the current direction as the top 
 -->
 &nbsp;
 
-Mechanical Engineer with 14 years of industry experience in structural design and design for manufacturing.
-Master's Degree in Mechanical Engineering, with thesis work on numerical modeling of nanomaterials.
-Dedicated to working toward the clean energy transition.
+Mechanical Engineer with industry experience in structural design and analysis, and design for manufacturing.
+Master's Degree in Mechanical Engineering, with thesis work on numerical modeling of porous nanomaterials.
+<!--Dedicated to working toward the clean energy transition.-->
 <!-- Experienced in R&D through university lab research.-->
 <!-- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.-->
 
@@ -37,7 +37,7 @@ Dedicated to working toward the clean energy transition.
 
 ### Mechanical Engineer
 - Conducted trade studies on the use of a lattice structure in wind turbine blades.
-- Performed FEA in Ansys to determine blade deflectino and test optimal structural parameters.
+- Performed FEA in Ansys to determine blade deflection and test optimal structural parameters.
 - Developed Python and MATLAB scripts for structural calculations and Ansys postprocessing.
 
 ## KATERRA, Seattle, WA&#9;*2019 - 2020*
@@ -45,7 +45,7 @@ Dedicated to working toward the clean energy transition.
 ### Manufactured Assemblies Design Engineer
 
 - Built prototypes of building components to test functionality, dimensions, and tolerances.
-- Created model, drawing, and CNC templates for steel wall panels using Catia 3DExperience.
+- Created CAD models, drawings, and CNC templates for steel wall panels using Catia 3DExperience.
 - Developed bathroom kits in SolidWorks, providing BOMs and drawings for assembly and installation.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*2015 - 2019*
