@@ -1,5 +1,5 @@
 Mechanical Engineer with expertise in structural design and analysis, and design for manufacturing.
-Master's Degree in Mechanical Engineering with a thesis focused on finite element analysis nanomaterials with both numerical and laboratory research work.
+Master's Degree in Mechanical Engineering with a thesis focused on finite element analysis of nanomaterials with both numerical and laboratory research work.
 I aim to use my research, design, and analysis backgrounds to develop the next generation of sustainable technologies.
 <!-- Experienced in R&D through university lab research.-->
 <!-- Proficient in Mandarin Chinese, ready to directly engage with overseas partners.-->
@@ -34,7 +34,7 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 
 ### Mechanical Engineer
 
-- Conducted trade studies on the use of a injection molded composite lattice structure in wind turbine blades.
+- Conducted trade studies on the use of an injection molded composite lattice structure in wind turbine blades.
 - Performed FEA in Ansys and hand stress analysis to determine blade deflection and optimal structural parameters of a lattice-based wind turbine blade.
 - Developed Python and MATLAB scripts for structural calculations and Ansys postprocessing.
 - Used NuMAD for 3D modeling of the wind turbine blade and OpenFAST to conduct aerodynamic simulations.
@@ -52,7 +52,7 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 ### Design and Integration Engineer
 
 - Led design work on the 737 Airstair, developing design solutions within difficult constraints, and conducting prototyping and testing of the design to support on-time delivery.
-- Investigate root cause of failed aircraft waste valves, disassembling failed samples to determine cause of failure, and testing to confirm the solution.
+- Investigated the root cause of failed aircraft waste valves, disassembling failed samples to determine the cause of failure, and testing to confirm the solution.
 - Designed an aircraft galley drain system integrating structure, sensors, and plumbing.
 
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*Sep 2006 -- Nov 2012, Sep -- Dec 2014*
@@ -69,7 +69,7 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 ### Project Engineer
 
 - Developed structure and systems designs for aluminum hulled boats, for use in extreme environments.
-- Worked from concept to production providing designs and drawings in Solidworks.
+- Worked from concept to production, providing designs and drawings in Solidworks.
 
 # SKILLS AND INTERESTS
 
