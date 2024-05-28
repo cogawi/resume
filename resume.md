@@ -45,23 +45,23 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 
 - Developed bathroom kits for residential buildings, to support factory assembly and cost reductions. Used SolidWorks to provide 3D models, BOMs and drawings.
 - Built bath kit prototypes to test functionality, strength, and manufacturability.
-- Used Catia 3DExperience scripting to automatically generate CAD models, drawings, and CNC files for factory-built wall panels.
+- Used Catia 3DExperience scripting to automatically generate CAD models, drawings, and CNC files for factory-built, mass-produced wall panels.
 
 ## SAFRAN AEROSYSTEMS, Everett, WA&#9;*Apr 2015 -- Mar 2019*
 
 ### Design and Integration Engineer
 
 - Led design work on the 737 Airstair, developing design solutions within difficult constraints, and conducting prototyping and testing of the design to support on-time delivery.
-- Investigated the root cause of failed aircraft waste valves, disassembling failed samples to determine the cause of failure, and testing to confirm the solution.
+- Conducted root cause analysis of failed aircraft waste valves using tolerance analysis and disassembly of failed parts, and developed test plans to validate the revised design.
 - Designed an aircraft galley drain system integrating structure, sensors, and plumbing.
 
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*Sep 2006 -- Nov 2012, Sep -- Dec 2014*
 
 ### Structural Design Engineer
 
-- Designed critical structural parts and assemblies on 747-8 and 767, using CATIA V5.
-- Coordinated with production facilities from concept to production.
-- Worked across groups and disciplines to manage design completion and define interfaces.
+- Designed structural parts and assemblies on 747-8 and 767, using CATIA V5 to define 3D models and 2D drawings.
+- Coordinated with production facilities, applying DFMA from concept to production.
+- Worked with cross-functional teams to manage design completion and define interfaces.
 - Developed design solutions to factory production problems.
 
 ## KVICHAK MARINE INDUSTRIES, Seattle, WA&#9;*Nov 2012 -- Jan 2014*
@@ -78,5 +78,5 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 - Python, MATLAB
 - Validation test design
 - Mandarin Chinese professional working proficiency
-- Mechanical design and CAD modeling (Solidworks, CATIA)
-- Dedicated to working toward the clean energy transition.
+- Mechanical design and CAD modeling (Solidworks, CATIA), GD&T
+- Dedicated to working toward the clean energy transition
