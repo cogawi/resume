@@ -1,4 +1,4 @@
-Mechanical Engineer with expertise in structural design and analysis, and design for manufacturing.
+Mechanical Engineer with expertise in structural design and analysis, and design for manufacture and assembly (DFMA).
 Master's Degree in Mechanical Engineering with a thesis focused on finite element analysis of nanomaterials with both numerical and laboratory research work.
 I aim to use my research, design, and analysis backgrounds to develop the next generation of sustainable technologies.
 <!-- Experienced in R&D through university lab research.-->
