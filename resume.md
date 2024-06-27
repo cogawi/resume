@@ -52,7 +52,7 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 ### Design and Integration Engineer
 
 - Led design work on the 737 Airstair, developing design solutions within difficult constraints, and conducting prototyping and testing of the design to support on-time delivery.
-- Conducted root cause analysis of failed aircraft waste valves using tolerance analysis and disassembly of failed parts, and developed test plans to validate the revised design.
+- Conducted root cause analysis of failed aircraft waste valves using tolerance analysis and disassembly of failed parts, worked with the supplier to make changes, and developed test plans to validate the revised design.
 - Designed an aircraft galley drain system integrating structure, sensors, and plumbing.
 
 ## BOEING COMMERCIAL AIRPLANES, Everett, WA&#9;*Sep 2006 -- Nov 2012, Sep -- Dec 2014*
@@ -60,9 +60,9 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 ### Structural Design Engineer
 
 - Designed structural parts and assemblies on 747-8 and 767, using CATIA V5 to define 3D models and 2D drawings.
-- Coordinated with production facilities, applying DFMA from concept to production.
+- Coordinated with production facilities and suppliers, applying DFMA from concept to production.
 - Worked with cross-functional teams to manage design completion and define interfaces.
-- Developed design solutions to factory production problems.
+- Developed design solutions to factory production problems, using a ticketing system workflow.
 
 ## KVICHAK MARINE INDUSTRIES, Seattle, WA&#9;*Nov 2012 -- Jan 2014*
 
