@@ -30,6 +30,13 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 
 # WORK EXPERIENCE
 
+## AMAZON, Bellevue, WA&#9;*Aug 2024 -- Present*
+
+### Hardware Development Engineer
+
+- Addressing operational challenges through retrofits and redesigns in Amazon fulfillment centers, improving noise, efficiency, automation, ergonomics, and safety.
+- Leading efforts to reduce workstation noise, developing design proposals, conducting testing, and coordinating for installation.
+
 ## DISCRETE LATTICE INDUSTRIES, Seattle, WA&#9;*Jun -- Sep 2021*
 
 ### Mechanical Engineer
