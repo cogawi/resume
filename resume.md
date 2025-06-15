@@ -30,7 +30,7 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 
 # WORK EXPERIENCE
 
-## AMAZON, Bellevue, WA&#9;*Aug 2024 -- Present*
+## AMAZON, Bellevue, WA&#9;*Aug 2024 -- Jan 2025*
 
 ### Hardware Development Engineer
 
