@@ -30,6 +30,15 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 
 # WORK EXPERIENCE
 
+## NANOVERO INC., Seattle, WA&#9;*Jun 2025 -- Present*
+
+### Founder, CEO, Engineer
+
+- Conducting business development activites, including customer discovery.
+- Applying for grant funding to help get company started.
+- Managing startup operations.
+- Planning long-term technical direction and guiding research progress towards commercialization.
+
 ## AMAZON, Bellevue, WA&#9;*Aug 2024 -- Jan 2025*
 
 ### Hardware Development Engineer
