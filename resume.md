@@ -34,7 +34,7 @@ I aim to use my research, design, and analysis backgrounds to develop the next g
 
 ### Founder, CEO, Engineer
 
-- Conducting business development activites, including customer discovery.
+- Conducting business development activities, including customer discovery.
 - Applying for grant funding to help get company started.
 - Managing startup operations.
 - Planning long-term technical direction and guiding research progress towards commercialization.
